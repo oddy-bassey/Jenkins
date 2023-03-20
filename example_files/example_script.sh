@@ -1,0 +1,7 @@
+#!/bin/bash
+
+FIRST_NAME=$1
+LAST_NAME=$2
+PROFESSION=$3
+
+echo "Hi, I am $LAST_NAME $FIRST_NAME a $PROFESSION."
